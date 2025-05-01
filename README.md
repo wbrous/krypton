@@ -12,7 +12,7 @@
 </div>
 
 ## About
-<u>Krypton</u> is a Discord Bot that can be used by educational institutions revolving alround Discord to fulfill their purpose. 
+<u>Krypton</u> is a Discord Bot that can be used by educational institutions revolving around Discord to fulfill their purpose. 
 
 ## Features
 1. Creating classes within channel.
